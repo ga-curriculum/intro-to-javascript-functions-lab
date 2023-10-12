@@ -10,7 +10,7 @@ This lab provides an opportunity to practice defining and calling functions.
 
 - [Setup](./setup/README.md)
 - [Lab exercise](./exercise/README.md)
-- [Solution code](#tktk-external-repo-link)
+- [Solution code](https://git.generalassemb.ly/modular-curriculum-all-course/javascript-functions-lab-solution)
 
 ## Time to complete
 
