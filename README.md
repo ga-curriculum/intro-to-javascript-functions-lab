@@ -1,21 +1,20 @@
-# [tktk Module Name]
+# JavaScript Functions Lab
 
 ![Hero image](./assets/tktkhero-main.png)
-
+tktk Hunter - we need to replace this image with one that includes "JavaScript Functions Lab"
 ## Introduction
 
-tktk Introduce the lab. What will the students build in this lab?
+This lab provides an opportunity to practice defining and calling functions.
 
 ## Lab content
 
 - [Setup](./setup/README.md)
 - [Lab exercise](./exercise/README.md)
-- [tktk Starter code remove if no starter](#tktk-external-repo-link)
-- [tktk Solution code](#tktk-external-repo-link)
+- [Solution code](#tktk-external-repo-link)
 
 ## Time to complete
 
-tktk Estimated time to complete core lab exercise: 
+Estimated time to complete core lab exercise: **60 min**
 
 ## Additional content 
 
