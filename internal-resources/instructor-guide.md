@@ -1,6 +1,6 @@
 # Javascript Functions Lab - Instructor Guide
 
-![Javascript Functions Lab - Instructor Guide](instructor-guide.md)
+![Javascript Functions Lab - Instructor Guide](../assets/hero.png)
 
 ***Nothing Here yet!***
 
