@@ -3,7 +3,7 @@ tktk Hunter - we need to replace this image with one that includes "JavaScript F
 
 ## Introduction
 
-This lab provides an opportunity to practice defining and calling functions.
+This lab offers a structured environment for you to practice the fundamentals of defining and calling functions in JavaScript. By completing a series of exercises, you will build a strong foundation in working with functions, a crucial skill for programming in any language. 
 
 ## Prerequisites
 
