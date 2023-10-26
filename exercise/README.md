@@ -1,5 +1,4 @@
-# ![Javascript Functions Lab - Lab Exercise](../assets/tktkhero-main.png)
-tktk Hunter - we need to replace this stock hero image with one that includes "JavaScript Functions Lab - Lab exercise"
+# ![Javascript Functions Lab - Lab Exercise](./assets/hero.png)
 
 ## Introduction
 

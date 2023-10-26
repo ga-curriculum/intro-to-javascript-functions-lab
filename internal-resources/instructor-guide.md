@@ -1,4 +1,6 @@
-# ![Javascript Functions Lab - Instructor Guide](../assets/tktkhero-secondary.png)
+# Javascript Functions Lab - Instructor Guide
+
+![Javascript Functions Lab - Instructor Guide](../assets/hero.png)
 
 ***Nothing Here yet!***
 

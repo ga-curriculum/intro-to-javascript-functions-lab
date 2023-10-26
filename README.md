@@ -1,5 +1,4 @@
-# ![JavaScript Functions Lab](./assets/tktkhero-main.png)
-tktk Hunter - we need to replace this image with one that includes "JavaScript Functions Lab"
+# ![JavaScript Functions Lab](./assets/hero.png)
 
 ## Introduction
 
