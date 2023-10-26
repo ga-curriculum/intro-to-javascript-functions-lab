@@ -1,6 +1,4 @@
-# Javascript Functions Lab - Setup
-
-![Hero image](./assets/hero.png)
+# ![Javascript Functions Lab - Setup](./assets/hero.png)
 tktk Hunter - we need to replace this stock hero image with one that includes "JavaScript Functions Lab - Setup"
 
 ## Setup 

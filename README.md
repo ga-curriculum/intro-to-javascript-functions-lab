@@ -1,24 +1,24 @@
-# JavaScript Functions Lab
-
-![Hero image](./assets/tktkhero-main.png)
+# ![JavaScript Functions Lab](./assets/tktkhero-main.png)
 tktk Hunter - we need to replace this image with one that includes "JavaScript Functions Lab"
+
 ## Introduction
 
 This lab provides an opportunity to practice defining and calling functions.
 
-## Lab content
+## Prerequisites
 
-- [Setup](./setup/README.md)
-- [Lab exercise](./exercise/README.md)
-- [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-functions-lab-solution)
+ - Javascript Control Flow
+ - Intro to Javascript Functions
 
 ## Time to complete
 
 Estimated time to complete core lab exercise: **60 min**
 
-## Additional content 
+## Lab
 
-🚀 [Level Up](./level-up/README.md)
+- [Setup](./setup/README.md)
+- [Lab exercise](./exercise/README.md)
+- [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-functions-lab-solution)
 
 ## Internal resources
 
