@@ -1,4 +1,4 @@
-# ![Intro to JavaScript Functions Lab - Instructor Guide](../assets/hero.png)
+# ![Intro to JavaScript Functions Lab - Instructor Guide](../assets/instructor-guide.png)
 
 ***Nothing Here yet!***
 

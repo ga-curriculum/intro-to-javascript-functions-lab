@@ -1,4 +1,4 @@
-# ![Intro to JavaScript Functions Lab - Release Notes](../assets/hero.png)
+# ![Intro to JavaScript Functions Lab - Release Notes](../assets/release-notes.png)
 
 ## Version 1.0 - Updates from legacy content
 
