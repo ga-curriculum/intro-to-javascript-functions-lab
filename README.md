@@ -1,23 +1,26 @@
 # ![Intro to JavaScript Functions Lab](./assets/hero.png)
 
-## Introduction
+## About
 
 This lab offers a structured environment for you to practice the fundamentals of defining and calling functions in JavaScript. By completing a series of exercises, you will build a strong foundation in working with functions, a crucial skill for programming in any language. 
 
 ## Prerequisites
 
- - Javascript Control Flow
- - Intro to Javascript Functions
+- Javascript Control Flow
+- Intro to Javascript Functions
 
 ## Time to complete
 
 Estimated time to complete core lab exercise: **60 min**
 
-## Lab
+## Content
 
 - [Setup](./setup/README.md)
-- [Lab exercise](./exercise/README.md)
-- [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-functions-lab-solution)
+- [Exercise](./exercise/README.md)
+
+## Solution code
+
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-functions-lab-solution)
 
 ## Internal resources
 
