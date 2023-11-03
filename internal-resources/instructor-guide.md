@@ -1,6 +1,4 @@
-# Javascript Functions Lab - Instructor Guide
-
-![Javascript Functions Lab - Instructor Guide](../assets/hero.png)
+# ![Intro to JavaScript Functions Lab - Instructor Guide](../assets/hero.png)
 
 ***Nothing Here yet!***
 

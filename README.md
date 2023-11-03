@@ -1,4 +1,4 @@
-# ![JavaScript Functions Lab](./assets/hero.png)
+# ![Intro to JavaScript Functions Lab](./assets/hero.png)
 
 ## Introduction
 
