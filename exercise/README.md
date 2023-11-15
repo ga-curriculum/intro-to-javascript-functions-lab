@@ -24,7 +24,7 @@ Copy and paste each of the following exercises into your JavaScript file. To che
 /*
 Exercise 1: maxOfTwoNumbers
 
-Define a function, maxOfTwoNumbers, that takes two numbers as arguments and returns the largest of them. If they are the same, return that number. Use the if-else construct.
+In this exercise, create a function named maxOfTwoNumbers. It should take two numbers as inputs and return the larger number. If they're equal, return either one.
 
 Exercise 1 has been completed for you:
 */
@@ -45,7 +45,7 @@ console.log('Exercise 1 Result:', maxOfTwoNumbers(3, 9));
 /*
 Exercise 2: maxOfThree
 
-Define a function, maxOfThree, that takes three numbers as arguments and returns the largest of them.
+Define a function, maxOfThree, it should accept three numbers and return the largest among them.
 
 Complete Exercise 2 in the space below:
 */
@@ -60,7 +60,7 @@ console.log('Exercise 2 Result:', );
 /*
 Exercise 3: Insert at the Beginning
 
-Define a function, isCharAVowel, that takes a character as an argument and returns true if it is a vowel, false otherwise.
+Write a function named isCharAVowel that takes a single character as an argument. It should return true if the character is a vowel, and false otherwise.
 
 Complete Exercise 3 in the space below:
 */
@@ -74,7 +74,7 @@ console.log('Exercise 3 Result:', );
 /*
 Exercise 4: sumArray
 
-Define a function, sumArray, that takes an array of numbers and returns the sum of those numbers. For example, sumArray([2, 4, 5]); would return 11.
+Create a function called sumArray. It should take an array of numbers and return the total sum. For example, sumArray([2, 4, 5]) should return 11.
 
 Complete Exercise 4 in the space below:
 */
@@ -88,7 +88,7 @@ console.log('Exercise 4 Result:', );
 /*
 Exercise 5: multiplyArray
 
-Define a function, multiplyArray, that takes an array of numbers and returns the product those numbers. For example, multiplyArray([2, 4, 5]); would return 40.
+Define a function called multiplyArray. It should take an array of numbers and return the product those numbers. For example, multiplyArray([2, 4, 5]); would return 40.
 
 Complete Exercise 5 in the space below:
 */
@@ -98,41 +98,41 @@ Complete Exercise 5 in the space below:
 console.log('Exercise 5 Result:', );
 ```
 
-### Exercise 6: `numArgs`
+### Exercise 6: `reverseString`
 ```js
 /*
-Exercise 6: numArgs
+Exercise 6: reverseString
 
-Define a function, numArgs, that returns the number of arguments passed to the function when called.
+Define a function called reverseString. It should take a string and return it with its characters in reverse order. For example, reverseString('rockstar'); would return the string "ratskcor".
 
 Complete Exercise 6 in the space below:
 */
 
 
+
 console.log('Exercise 6 Result:', );
 ```
 
-### Exercise 7: `reverseString`
+### Exercise 7: `longestStringInArray`
 ```js
 /*
-Exercise 7: reverseString
+Exercise 7: longestStringInArray
 
-Define a function, reverseString, that takes a string, reverses the characters, and returns it. For example, reverseString('rockstar'); would return the string "ratskcor".
+Define a function called longestStringInArray. It should accept an array of strings and return the length of the longest string in the array.
 
 Complete Exercise 7 in the space below:
 */
 
 
-
 console.log('Exercise 7 Result:', );
 ```
 
-### Exercise 8: `longestStringInArray`
+### Exercise 8: `stringsLongerThan`
 ```js
 /*
-Exercise 8: longestStringInArray
+Exercise 8: stringsLongerThan
 
-Define a function, longestStringInArray, that takes an array of strings as an argument and returns the length of the longest string.
+Write a function called stringsLongerThan. It takes an array of strings and a number, returning all strings longer than the given number. For example, stringsLongerThan(['say', 'hello', 'in', 'the', 'morning'], 3) would return ['hello', 'morning'].
 
 Complete Exercise 8 in the space below:
 */
@@ -141,12 +141,14 @@ Complete Exercise 8 in the space below:
 console.log('Exercise 8 Result:', );
 ```
 
-### Exercise 9: `stringsLongerThan`
+## Level Up 
+
+### Exercise 9: `numArgs`
 ```js
 /*
-Exercise 9: stringsLongerThan
+Exercise 9: numArgs
 
-Define a function, stringsLongerThan, that takes an array of strings and a number as arguments; and returns an array of the strings that are longer than the number passed in. For example, stringsLongerThan(['say', 'hello', 'in', 'the', 'morning'], 3); would return ["hello", "morning"].
+Challenge yourself with numArgs. This function should return the count of arguments passed to it when called.
 
 Complete Exercise 9 in the space below:
 */
@@ -154,6 +156,7 @@ Complete Exercise 9 in the space below:
 
 console.log('Exercise 9 Result:', );
 ```
+
 
 <br>
 
