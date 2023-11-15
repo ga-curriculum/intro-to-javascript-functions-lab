@@ -27,7 +27,7 @@ With the files created, open the contents of the directory in VS Code:
 code .
 ```
 
-Open the **`index.html`** file and add HTML boilerplate. Then make use of the **`script.js`** file by adding this line inside the `<head>` tag:
+Open the **`index.html`** file and add HTML boilerplate. Then link the **`script.js`** file by adding this line inside the `<head>` tag:
 
 ```html
 <script defer src="./script.js"></script>

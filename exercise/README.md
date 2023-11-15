@@ -98,41 +98,41 @@ Complete Exercise 5 in the space below:
 console.log('Exercise 5 Result:', );
 ```
 
-### Exercise 6: `numArgs`
+### Exercise 6: `reverseString`
 ```js
 /*
-Exercise 6: numArgs
+Exercise 6: reverseString
 
-Define a function, numArgs, that returns the number of arguments passed to the function when called.
+Define a function, reverseString, that takes a string, reverses the characters, and returns it. For example, reverseString('rockstar'); would return the string "ratskcor".
 
 Complete Exercise 6 in the space below:
 */
 
 
+
 console.log('Exercise 6 Result:', );
 ```
 
-### Exercise 7: `reverseString`
+### Exercise 7: `longestStringInArray`
 ```js
 /*
-Exercise 7: reverseString
+Exercise 7: longestStringInArray
 
-Define a function, reverseString, that takes a string, reverses the characters, and returns it. For example, reverseString('rockstar'); would return the string "ratskcor".
+Define a function, longestStringInArray, that takes an array of strings as an argument and returns the length of the longest string.
 
 Complete Exercise 7 in the space below:
 */
 
 
-
 console.log('Exercise 7 Result:', );
 ```
 
-### Exercise 8: `longestStringInArray`
+### Exercise 8: `stringsLongerThan`
 ```js
 /*
-Exercise 8: longestStringInArray
+Exercise 8: stringsLongerThan
 
-Define a function, longestStringInArray, that takes an array of strings as an argument and returns the length of the longest string.
+Define a function, stringsLongerThan, that takes an array of strings and a number as arguments; and returns an array of the strings that are longer than the number passed in. For example, stringsLongerThan(['say', 'hello', 'in', 'the', 'morning'], 3); would return ["hello", "morning"].
 
 Complete Exercise 8 in the space below:
 */
@@ -141,12 +141,14 @@ Complete Exercise 8 in the space below:
 console.log('Exercise 8 Result:', );
 ```
 
-### Exercise 9: `stringsLongerThan`
+## Level Up 
+
+### Exercise 9: `numArgs`
 ```js
 /*
-Exercise 9: stringsLongerThan
+Exercise 9: numArgs
 
-Define a function, stringsLongerThan, that takes an array of strings and a number as arguments; and returns an array of the strings that are longer than the number passed in. For example, stringsLongerThan(['say', 'hello', 'in', 'the', 'morning'], 3); would return ["hello", "morning"].
+Define a function, numArgs, that returns the number of arguments passed to the function when called.
 
 Complete Exercise 9 in the space below:
 */
@@ -154,6 +156,7 @@ Complete Exercise 9 in the space below:
 
 console.log('Exercise 9 Result:', );
 ```
+
 
 <br>
 
