@@ -8,7 +8,7 @@ Open your Terminal application and navigate to your **`~/code/ga/labs`** directo
 cd ~/code/ga/labs
 ```
 
-Navigate to [GitHub](https://github.com/) and create a new repository named **[js-functions-lab]**.
+Navigate to [GitHub](https://github.com/) and create a new repository named **js-functions-lab**.
 
 - Make sure the repo is set to `public`
 - You do not need a `README.md`
@@ -18,7 +18,7 @@ Navigate to [GitHub](https://github.com/) and create a new repository named **[j
 Using the `Quick Setup` option, clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
 ```bash
-git clone https://git.generalassemb.ly/<your-username>/[js-functions-lab].git
+git clone https://git.generalassemb.ly/<your-username>/js-functions-lab.git
 ```
 
 > Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
