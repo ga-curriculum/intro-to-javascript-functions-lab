@@ -1,4 +1,4 @@
-# ![Intro to JavaScript Functions Lab](./assets/hero.png)
+# ![Intro to JavaScript Functions Lab](../assets/hero.png)
 
 ## About
 
@@ -10,5 +10,5 @@ Estimated time to complete core lab exercise: **60 min**
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Setup](../setup/README.md)
+- [Exercise](../exercise/README.md)
