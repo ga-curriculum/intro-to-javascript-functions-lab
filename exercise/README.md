@@ -16,7 +16,7 @@ Happy coding!
 
 ## Lab Exercises
 
-Copy and paste each of the following exercises into your JavaScript file. To check your work, open the file in a web browser and inspect the console output, or run the file in your terminal using `node script.js`. 
+Copy and paste each of the following exercises into your JavaScript file. To check your work, open the `index.html` file in a web browser and inspect the browser console, or run the javascript file directly in your terminal using `node script.js`. 
 
 ### Exercise 1: `maxOfTwoNumbers`
 
