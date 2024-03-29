@@ -40,16 +40,17 @@ const maxOfTwoNumbers = (x, y) => {
 console.log('Exercise 1 Result:', maxOfTwoNumbers(3, 9));
 ```
 
-### Exercise 2: `maxOfThree`
+### Exercise 2: `isAdult`
 ```js
 /*
-Exercise 2: maxOfThree
+Exercise: isAdult
 
-Define a function, maxOfThree, it should accept three numbers and return the largest among them.
+Write a function named isAdult. It should take an age (number) and return 'Adult' if the age is 18 or over, and 'Minor' otherwise.
 
-Complete Exercise 2 in the space below:
+Example: isAdult(21) should return 'Adult'.
+
+Complete exercise in the space below:
 */
-
 
 
 console.log('Exercise 2 Result:', );
@@ -58,39 +59,43 @@ console.log('Exercise 2 Result:', );
 ### Exercise 3: `isCharAVowel`
 ```js
 /*
-Exercise 3: Insert at the Beginning
+Exercise: isCharAVowel
 
 Write a function named isCharAVowel that takes a single character as an argument. It should return true if the character is a vowel, and false otherwise.
 
-Complete Exercise 3 in the space below:
+Complete exercise in the space below:
 */
+
 
 
 console.log('Exercise 3 Result:', );
 ```
 
-### Exercise 4: `sumArray`
+### Exercise 4: `generateEmail`
 ```js
 /*
-Exercise 4: sumArray
+Exercise: generateEmail
 
-Create a function called sumArray. It should take an array of numbers and return the total sum. For example, sumArray([2, 4, 5]) should return 11.
+Create a function named generateEmail. It should take two strings: a name and a domain, and return a simple email address.
 
-Complete Exercise 4 in the space below:
+Example: generateEmail('johnsmith', 'example.com') should return 'johnsmith@example.com'.
+
+Complete exercise in the space below:
 */
-
 
 console.log('Exercise 4 Result:', );
 ```
 
-### Exercise 5: `multiplyArray`
+### Exercise 5: `greetUser`
 ```js
 /*
-Exercise 5: multiplyArray
+Exercise: greetUser
 
-Define a function called multiplyArray. It should take an array of numbers and return the product those numbers. For example, multiplyArray([2, 4, 5]); would return 40.
+Define a function called greetUser. It should take a name and a time of day (morning, afternoon, evening) and return a personalized greeting.
 
-Complete Exercise 5 in the space below:
+Example: greetUser('Sam', 'morning') should return "Good morning, Sam!"
+
+Complete exercise in the space below:
 */
 
 
@@ -101,11 +106,11 @@ console.log('Exercise 5 Result:', );
 ### Exercise 6: `reverseString`
 ```js
 /*
-Exercise 6: reverseString
+Exercise: reverseString
 
 Define a function called reverseString. It should take a string and return it with its characters in reverse order. For example, reverseString('rockstar'); would return the string "ratskcor".
 
-Complete Exercise 6 in the space below:
+Complete exercise in the space below:
 */
 
 
@@ -113,50 +118,139 @@ Complete Exercise 6 in the space below:
 console.log('Exercise 6 Result:', );
 ```
 
-### Exercise 7: `longestStringInArray`
+### Exercise 7: `checkPalindrome`
 ```js
 /*
-Exercise 7: longestStringInArray
+Exercise: checkPalindrome
 
-Define a function called longestStringInArray. It should accept an array of strings and return the length of the longest string in the array.
+Define a function called checkPalindrome. It should take a string and return true if the string is a palindrome (reads the same forwards and backwards) and false otherwise.
 
-Complete Exercise 7 in the space below:
+Example: checkPalindrome('radar') should return true.
+
+Complete exercise in the space below:
 */
+
 
 
 console.log('Exercise 7 Result:', );
 ```
 
-### Exercise 8: `stringsLongerThan`
+### Exercise 8: `maxOfThree`
 ```js
 /*
-Exercise 8: stringsLongerThan
+Exercise: maxOfThree
 
-Write a function called stringsLongerThan. It takes an array of strings and a number, returning all strings longer than the given number. For example, stringsLongerThan(['say', 'hello', 'in', 'the', 'morning'], 3) would return ['hello', 'morning'].
+Define a function, maxOfThree, it should accept three numbers and return the largest among them.
 
-Complete Exercise 8 in the space below:
+Complete exercise in the space below:
 */
+
 
 
 console.log('Exercise 8 Result:', );
 ```
 
-## Level Up 
-
-### Exercise 9: `numArgs`
+### Exercise 9: `calculateTip`
 ```js
 /*
-Exercise 9: numArgs
+Exercise: calculateTip
 
-Challenge yourself with numArgs. This function should return the count of arguments passed to it when called.
+Create a function called calculateTip. It should take two arguments: the bill amount and the tip percentage (as a whole number). Return the amount of tip.
 
-Complete Exercise 9 in the space below:
+Example: calculateTip(50, 20) should return 10.
+
+Complete exercise in the space below:
 */
+
 
 
 console.log('Exercise 9 Result:', );
 ```
 
+### Exercise 10: `convertTemperature`
+```js
+/*
+Exercise: convertTemperature
+
+Write a function named convertTemperature. It takes two arguments: a temperature and a string representing the scale ('C' for Celsius, 'F' for Fahrenheit). Convert the temperature to the other scale.
+
+Example: convertTemperature(32, 'C') should return 89.6 (Fahrenheit).
+
+Complete exercise in the space below:
+*/
+
+
+
+console.log('Exercise 10 Result:', );
+```
+
+## Level Up
+
+### Exercise 11: `basicCalculator`
+```js
+/*
+Exercise: basicCalculator
+
+Create a function named basicCalculator. It should take three arguments: two numbers and a string representing an operation ('add', 'subtract', 'multiply', 'divide'). Perform the operation on the numbers.
+
+Example: basicCalculator(10, 5, 'subtract') should return 5.
+
+Complete exercise in the space below:
+*/
+
+
+
+console.log('Exercise 11 Result:', );
+```
+
+### Exercise 12: `calculateGrade`
+```js
+/*
+Exercise: calculateGrade
+
+Define a function called calculateGrade. It should take a numerical score and return the corresponding letter grade (A, B, C, D, F). For example, 90 and above yields an 'A', 80-89 is a 'B', and so on.
+
+Complete exercise in the space below:
+*/
+
+
+
+console.log('Exercise 12 Result:', );
+```
+
+### Ecercise 13: `createUsername`
+```js
+/*
+Exercise: createUsername
+
+Define a function called createUsername. It should take a first name and a last name and return a username. The username should be a combination of the following:
+- The first three letters of the first name.
+- The first three letters of the last name.
+- The total character count of the first and last name combined.
+
+Example: createUsername('Samantha', 'Green') should return 'SamGre12'.
+
+Complete exercise in the space below:
+*/
+
+
+
+console.log('Exercise 13 Result:', );
+```
+
+### Exercise 14: `numArgs`
+```js
+/*
+Exercise: numArgs
+
+Challenge yourself with numArgs. This function should return the count of arguments passed to it when called.
+
+Complete exercise in the space below:
+*/
+
+
+console.log('Exercise 14 Result:', );
+```
 
 <br>
 
