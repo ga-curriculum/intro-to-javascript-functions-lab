@@ -53,7 +53,7 @@ Complete exercise in the space below:
 */
 
 
-console.log('Exercise 2 Result:', );
+console.log('Exercise 2 Result:', isAdult(21));
 ```
 
 ### Exercise 3: `isCharAVowel`
@@ -68,7 +68,7 @@ Complete exercise in the space below:
 
 
 
-console.log('Exercise 3 Result:', );
+console.log('Exercise 3 Result:', isCharAVowel("a"));
 ```
 
 ### Exercise 4: `generateEmail`
@@ -83,7 +83,7 @@ Example: generateEmail('johnsmith', 'example.com') should return 'johnsmith@exam
 Complete exercise in the space below:
 */
 
-console.log('Exercise 4 Result:', );
+console.log('Exercise 4 Result:', generateEmail("johnsmith", "example.com"));
 ```
 
 ### Exercise 5: `greetUser`
@@ -100,7 +100,7 @@ Complete exercise in the space below:
 
 
 
-console.log('Exercise 5 Result:', );
+console.log('Exercise 5 Result:', greetUser("Sam", "morning"));
 ```
 
 ### Exercise 6: `reverseString`
@@ -115,7 +115,7 @@ Complete exercise in the space below:
 
 
 
-console.log('Exercise 6 Result:', );
+console.log('Exercise 6 Result:', reverseString("rockstar"));
 ```
 
 ### Exercise 7: `checkPalindrome`
@@ -132,7 +132,7 @@ Complete exercise in the space below:
 
 
 
-console.log('Exercise 7 Result:', );
+console.log('Exercise 7 Result:', checkPalindrome("radar"));
 ```
 
 ### Exercise 8: `maxOfThree`
@@ -147,7 +147,7 @@ Complete exercise in the space below:
 
 
 
-console.log('Exercise 8 Result:', );
+console.log('Exercise 8 Result:', maxOfThree(5, 10, 8));
 ```
 
 ### Exercise 9: `calculateTip`
@@ -164,7 +164,7 @@ Complete exercise in the space below:
 
 
 
-console.log('Exercise 9 Result:', );
+console.log('Exercise 9 Result:', calculateTip(50, 20));
 ```
 
 ### Exercise 10: `convertTemperature`
@@ -181,7 +181,7 @@ Complete exercise in the space below:
 
 
 
-console.log('Exercise 10 Result:', );
+console.log('Exercise 10 Result:', convertTemperature(32, "C"));
 ```
 
 ## Level Up
@@ -200,7 +200,7 @@ Complete exercise in the space below:
 
 
 
-console.log('Exercise 11 Result:', );
+console.log('Exercise 11 Result:', basicCalculator(10, 5, "subtract"));
 ```
 
 ### Exercise 12: `calculateGrade`
@@ -215,7 +215,7 @@ Complete exercise in the space below:
 
 
 
-console.log('Exercise 12 Result:', );
+console.log('Exercise 12 Result:', calculateGrade(85));
 ```
 
 ### Ecercise 13: `createUsername`
@@ -235,7 +235,7 @@ Complete exercise in the space below:
 
 
 
-console.log('Exercise 13 Result:', );
+console.log('Exercise 13 Result:', createUsername("Samantha", "Green"));
 ```
 
 ### Exercise 14: `numArgs`
@@ -249,7 +249,7 @@ Complete exercise in the space below:
 */
 
 
-console.log('Exercise 14 Result:', );
+console.log('Exercise 14 Result:', numArgs(1, 2, 3, 4));
 ```
 
 <br>
