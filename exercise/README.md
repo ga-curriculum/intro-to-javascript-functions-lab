@@ -112,48 +112,12 @@ Complete the exercise in the space below:
 console.log('Exercise 5 Result:', greetUser("Sam", "morning"));
 ```
 
-### Exercise 6: `reverseString()`
+
+### Exercise 6: `maxOfThree()`
 
 ```js
 /*
-Exercise 6: reverseString()
-
-Define a function called reverseString. It should take a string and return it with its characters in reverse order. 
-
-Example: reverseString('rockstar') should return the string "ratskcor".
-
-Complete the exercise in the space below:
-*/
-
-
-
-console.log('Exercise 6 Result:', reverseString("rockstar"));
-```
-
-### Exercise 7: `checkPalindrome()`
-
-```js
-/*
-Exercise 7: checkPalindrome()
-
-Define a function called checkPalindrome. It should take a string and return true if the string is a palindrome (reads the same forwards and backwards) and false otherwise.
-
-Example: checkPalindrome('radar') should return true.
-Example: checkPalindrome('taco') should return false.
-
-Complete the exercise in the space below:
-*/
-
-
-
-console.log('Exercise 7 Result:', checkPalindrome("radar"));
-```
-
-### Exercise 8: `maxOfThree()`
-
-```js
-/*
-Exercise 8: maxOfThree()
+Exercise 6: maxOfThree()
 
 Define a function, maxOfThree. It should accept three numbers and return the largest among them.
 
@@ -164,14 +128,14 @@ Complete the exercise in the space below:
 
 
 
-console.log('Exercise 8 Result:', maxOfThree(5, 10, 8));
+console.log('Exercise 6 Result:', maxOfThree(5, 10, 8));
 ```
 
-### Exercise 9: `calculateTip()`
+### Exercise 7: `calculateTip()`
 
 ```js
 /*
-Exercise 9: calculateTip()
+Exercise 7: calculateTip()
 
 Create a function called calculateTip. It should take two arguments: the bill amount and the tip percentage (as a whole number). The function should return the amount of the tip.
 
@@ -182,14 +146,14 @@ Complete the exercise in the space below:
 
 
 
-console.log('Exercise 9 Result:', calculateTip(50, 20));
+console.log('Exercise 7 Result:', calculateTip(50, 20));
 ```
 
-### Exercise 10: `convertTemperature()`
+### Exercise 8: `convertTemperature()`
 
 ```js
 /*
-Exercise 10: convertTemperature()
+Exercise 8: convertTemperature()
 
 Write a function named convertTemperature. It takes two arguments: a temperature and a string representing the scale ('C' for Celsius, 'F' for Fahrenheit). Convert the temperature to the other scale.
 
@@ -201,18 +165,14 @@ Complete the exercise in the space below:
 
 
 
-console.log('Exercise 10 Result:', convertTemperature(32, "C"));
+console.log('Exercise 8 Result:', convertTemperature(32, "C"));
 ```
 
-## Level Up
-
-These Level Up exercises are not required.
-
-### Exercise 11: `basicCalculator()`
+### Exercise 9: `basicCalculator()`
 
 ```js
 /*
-Exercise 11: basicCalculator()
+Exercise 9: basicCalculator()
 
 Create a function named basicCalculator. It should take three arguments: two numbers and a string representing an operation ('add', 'subtract', 'multiply', 'divide'). Perform the provided operation on the two numbers. In operations where the order of numbers is important, treat the first parameter as the first operand and the second parameter as the second operand.
 
@@ -223,14 +183,18 @@ Complete the exercise in the space below:
 
 
 
-console.log('Exercise 11 Result:', basicCalculator(10, 5, "subtract"));
+console.log('Exercise 9 Result:', basicCalculator(10, 5, "subtract"));
 ```
 
-### Exercise 12: `calculateGrade()`
+## Level Up
+
+These Level Up exercises are not required.
+
+### Exercise 10: `calculateGrade()`
 
 ```js
 /*
-Exercise 12: calculateGrade()
+Exercise 10: calculateGrade()
 
 Define a function called calculateGrade. It should take a numerical score and return the corresponding letter grade (A, B, C, D, F). For example, 90 and above yields an 'A', 80-89 is a 'B', and 70-79 is a 'C', 60-69 is a 'D' and anything lower than a 60 is an 'F'.
 
@@ -241,14 +205,14 @@ Complete the exercise in the space below:
 
 
 
-console.log('Exercise 12 Result:', calculateGrade(85));
+console.log('Exercise 10 Result:', calculateGrade(85));
 ```
 
-### Exercise 13: `createUsername()`
+### Exercise 11: `createUsername()`
 
 ```js
 /*
-Exercise 13: createUsername()
+Exercise 11: createUsername()
 
 Define a function called createUsername. It should take a first name and a last name and return a username. The username should be a combination of the following:
 - The first three letters of the first name.
@@ -262,14 +226,14 @@ Complete the exercise in the space below:
 
 
 
-console.log('Exercise 13 Result:', createUsername("Samantha", "Green"));
+console.log('Exercise 11 Result:', createUsername("Samantha", "Green"));
 ```
 
-### Exercise 14: `numArgs()`
+### Exercise 12: `numArgs()`
 
 ```js
 /*
-Exercise 14: numArgs()
+Exercise 12: numArgs()
 
 Challenge yourself with numArgs. This function should return the count of arguments passed to it when called.
 
@@ -278,7 +242,7 @@ Complete the exercise in the space below:
 
 
 
-console.log('Exercise 14 Result:', numArgs(1, 2, 3, 4));
+console.log('Exercise 12 Result:', numArgs(1, 2, 3, 4));
 ```
 
 **🎉  The End. You did it!  🎉**
