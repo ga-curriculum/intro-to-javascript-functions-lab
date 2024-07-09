@@ -260,7 +260,7 @@ The username should be a combination of the following:
 - The first three letters of the last name.
 - The total character count of the first and last name combined.
 
-Example: createUsername('Samantha', 'Green') should return 'SamGre12'.
+Example: createUsername('Samantha', 'Green') should return 'SamGre13'.
 
 Complete the exercise in the space below:
 */
