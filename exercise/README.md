@@ -15,9 +15,9 @@ If you've revisited the materials and are still facing challenges,
 don't hesitate to collaborate with your classmates.
 
 Lastly, the internet is filled with resources specific to JavaScript
-arrays. Websites like [Google](https://www.google.com/), 
-[MDN Web Docs on Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), 
-and [Stack Overflow](https://stackoverflow.com/questions/tagged/javascript+arrays) are just a few clicks away. Use these as a 
+functions. Websites like [Google](https://www.google.com/), 
+[MDN Web Docs on Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions), 
+and [Stack Overflow](https://stackoverflow.com/questions/tagged/javascript+functions) are just a few clicks away. Use these as a 
 last resort before reaching out for help.
 
 Happy coding!
