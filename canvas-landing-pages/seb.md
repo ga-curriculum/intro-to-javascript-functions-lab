@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Functions Lab](../assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Intro to JavaScript Functions Lab</span>
+</h1>
 
 ## About
 

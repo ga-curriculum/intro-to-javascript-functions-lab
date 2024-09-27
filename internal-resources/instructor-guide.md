@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Functions Lab - Instructor Guide](../assets/instructor-guide.png)
+<h1>
+  <span class="headline">Intro to JavaScript Functions Lab</span>
+  <span class="subhead">Instructor Guide</span>
+</h1>
 
 ***Nothing Here yet!***
 
