@@ -3,7 +3,7 @@
   <span class="subhead">Instructor Guide</span>
 </h1>
 
-***Nothing Here yet!***
+**_Nothing here yet._**
 
 ---
 
