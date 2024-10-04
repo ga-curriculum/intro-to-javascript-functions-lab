@@ -11,6 +11,7 @@ This lab offers a structured environment for you to practice the fundamentals of
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
+- [Level Up](./level-up/README.md)
 
 ## Internal
 
