@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Functions Lab - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Functions Lab</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 
@@ -8,7 +11,7 @@ Open your Terminal application and navigate to your **`~/code/ga/labs`** directo
 cd ~/code/ga/labs
 ```
 
-Navigate to [GitHub](https://github.com/) and create a new repository named **js-functions-lab**.
+Navigate to [GitHub](https://github.com/) and create a new repository named **intro-to-javascript-functions-lab**.
 
 - Make sure the repo is set to `public`
 - You do not need a `README.md`
@@ -17,15 +20,15 @@ Navigate to [GitHub](https://github.com/) and create a new repository named **js
 Using the `Quick Setup` option, clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
 ```bash
-git clone https://github.com/<your-username>/js-functions-lab.git
+git clone https://github.com/<your-username>/intro-to-javascript-functions-lab.git
 ```
 
 > Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
 
-Next, `cd` into your new cloned directory, `js-functions-lab`:
+Next, `cd` into your new cloned directory, `intro-to-javascript-functions-lab`:
 
 ```bash
-cd js-functions-lab
+cd intro-to-javascript-functions-lab
 ```
 
 Then, create an **`app.js`** and an **`index.html`** file. These files will hold your work for this lab:
